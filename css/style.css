@@ -130,6 +130,16 @@ p{
 	
 }
 
+@media(max-width:480px){
+	
+	.header img{
+		width:10%;
+		height:50px;
+		margin:-20px 0 0 80px;
+	}
+	
+}
+
 
 /* Services */
 
