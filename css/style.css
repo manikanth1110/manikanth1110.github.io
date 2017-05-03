@@ -47,8 +47,8 @@ p{
 }
 
 .btn:hover{
-	background-color:#dddddd !important;
-	color:#333333 !important;
+	background-color:#ffffff !important;
+	color:#265cff !important;
 	border:1px solid #fff !important;
 }
 
@@ -110,10 +110,7 @@ p{
 		padding:30px;
 		height:750px;
 	}
-	.header img{
-		width:20%;
-		height:100px;
-		margin:-20px 0 0 80px;
+	
 		
 	}
 	.header .btn{
@@ -126,16 +123,6 @@ p{
 	}
 	.header p{
 		font-size:20px;
-	}
-	
-}
-
-@media(max-width:480px){
-	
-	.header img{
-		width:10%;
-		height:50px;
-		margin:-20px 0 0 80px;
 	}
 	
 }
