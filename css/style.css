@@ -34,12 +34,15 @@ h1,h2,h4{
 }
 
 p{
+    font-family: cursive;
 	font-size:20px;
 	line-height:21px;
 	color:#ffffff;
 }
 
 .btn{
+    margin-top: 2cm !important;
+    background-color:#3e413f !important;
 	transition: all 300ms ease-in-out;
 	font-weight:500 !important;
 	text-transform:uppercase;
@@ -47,9 +50,9 @@ p{
 }
 
 .btn:hover{
-	background-color:#ffffff !important;
-	color:#265cff !important;
-	border:1px solid #fff !important;
+	background-color:#0f0101 !important;
+	color:#f9fafd !important;
+	border:1px solid #3e413f !important;
 }
 
 /*navigation*/
