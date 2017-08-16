@@ -135,10 +135,18 @@ p{
 
 
 /* Services */
+    
+.services{
+    height: 800px;
+    width:auto;
+    text-align: center;
+    
+}
 
-	.services{
-		padding:80px 0 80px;
-		text-align:center;
+.services .row{
+    padding: 30px 50px 50px 150px;
+}
+		
 	}
 	.services h2, .services h4{
 		color:#555555;
@@ -159,7 +167,7 @@ p{
 /* About Me */
 
 .aboutme{
-	padding:50px 0 80px;
+	padding: 50px 30px 50px 80px;
 	text-align:center;
 	background-image:url(../images/twoo.jpg);
 	width: 100%;
@@ -183,8 +191,8 @@ p{
 		background: #FFE;
 		margin-top:30px;
 		opacity: 0.7;
-		height: 740px;
-		width:220px;
+		height: 750px;
+		width:250px;
 
 	}
 	.packages li{
